@@ -1,10 +1,21 @@
 {
-"name": "Scanner",
-"description": "Web 3 scanner",
-"image": "https://raw.githubusercontent.com/TheGateway-ton/metadata/main/assets/tg_bot_pic.png",
-"external_url": http://fingerprints.ton,
-"external_link": null,
-"social_links": [],
-"marketplace": "getgems.io",
-"cover_image": "https://raw.githubusercontent.com/TheGateway-ton/metadata/main/assets/banner.png"
+    "name": "Scanner",
+    "description": "Web 3 scanner",
+    "image": "https://raw.githubusercontent.com/TheGateway-ton/metadata/main/assets/tg_bot_pic.png",
+    "external_url": "http: //fingerprints.ton",
+    "external_link": "external_link": "http://fingerprints.ton",
+    "social_links": [
+        "https://t.me/fingerprint_scanner_bot",
+        "https://t.me/dao_verify_bot",
+        "https://ton.vote/EQD1PIvZLeDmgICYjkzEbvyIZRWNQNS6izrxQJuoXZk_uF2y",
+        "http://fingerprints.ton",
+        "https://github.com/mir-one/fingerprints",
+        "https://nft.mir.one/fingerprints",
+        "https://t.me/ton_fingerprints",
+        "https://t.me/ton_fingerprints_ru",
+        "https://t.me/ton_mir_bot",
+        "https://creativecommons.org/public-domain/cc0/"
+    ],
+    "marketplace": "getgems.io",
+    "cover_image": "https://raw.githubusercontent.com/TheGateway-ton/metadata/main/assets/banner.png"
 }

@@ -1,0 +1,21 @@
+{
+    "license": "ipfs://bafkreihj7iub3fhmhq6jn62noukt5wxn3gv6bvcg7wmt6ywvlurefezckq",
+    "attributes": [
+        {
+            "trait_type": "DAO",
+            "value": "true"
+        }
+    ],
+    "description": "Scanner",
+    "name": "Scanner #6",
+    "image": "https://raw.githubusercontent.com/TheGateway-ton/metadata/main/assets/tg_bot_pic.png",
+    "theme": {
+        "main": "#2188ff"
+    },
+    "buttons": [
+        {
+            "label": "Open Scanner",
+            "uri": "https://t.me/fingerprint_scanner_bot/scan"
+        }
+    ]
+}
